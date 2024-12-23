@@ -1,8 +1,8 @@
-### Hello! My name is Eduardo Vinícius 👋
+### Oi! Me chamo Eduardo Vinícius 👋
 
-- 👨🏻‍💻 Full Stack Developer
-- ❤️ I love the Java programming language
-- 🖥️ I have a bigger crush on backend than frontend
+- 👨🏻‍💻 Desenvolvedor Full Stack
+- ❤️ Amo a linguagem de programação Java
+- 🖥️ Tenho um crush maior com frontend do que com backend
 
 ##
 
@@ -15,7 +15,7 @@
 
 <hr/>
     
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br/>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Eduardo-Java" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
@@ -54,7 +54,7 @@
 ##
 
 <div align="center">
-  <p>🙋🏻‍♂️ Take a look at my Linkedin and follow me on social networks!</p>
+  <p>🙋🏻‍♂️ Dê uma olhada no meu Linkedin e me siga em minhas redes sociais!</p>
   <a href="https://www.linkedin.com/in/eduardo-vin%C3%ADcius-9b4aa8197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:eduardovlr-dev@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email">
