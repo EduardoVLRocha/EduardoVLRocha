@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Desenvolvedor Full Stack
 - ❤️ Amo a linguagem de programação Java
-- 🖥️ Tenho um crush maior com frontend do que com backend
+- 🖥️ Tenho um crush maior com backend do que com frontend
 
 ##
 
