@@ -3,6 +3,8 @@
 - 👨🏻‍💻 Desenvolvedor Full Stack
 - ❤️ Amo a linguagem de programação Java
 - 🖥️ Tenho um crush maior com backend do que com frontend
+- 🎯 Portfolio website: [Portfolio](https://eduardovlrocha.github.io/)
+
 
 ##
 
