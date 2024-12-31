@@ -57,12 +57,12 @@
 
 <div align="center">
   <p>🙋🏻‍♂️ Dê uma olhada no meu Linkedin e me siga em minhas redes sociais!</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-vin%C3%ADcius-9b4aa8197/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:eduardovlr-dev@hotmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/eduardo-vin%C3%ADcius-9b4aa8197/" target="_blank" style="margin: 0 10px; text-decoration: none;">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
+    </a>
+    <a href="mailto:eduardovlr-dev@hotmail.com" target="_blank" style="margin: 0 10px; text-decoration: none;">
+      <img src="https://img.icons8.com/color/48/000000/secured-letter.png" alt="Email">
+    </a>
+  </div>
 </div>
